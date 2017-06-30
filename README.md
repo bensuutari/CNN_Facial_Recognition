@@ -1,4 +1,4 @@
-#      Neuron Interfaced With Python + Tkinter GUI        #
+#      Convolutional Neural Network for Facial Recognition Using Tensorflow        #
 
 
 This is a convolutional neural network implemented in Tensorflow for facial recognition.  
