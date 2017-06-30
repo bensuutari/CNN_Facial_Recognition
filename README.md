@@ -5,9 +5,9 @@ This is a convolutional neural network implemented in Tensorflow for facial reco
 
 Here, Tensorflow is interfaced with Python 
 
-##	The Default Screen With Standard Parameters	##
+##	Accuracy of CNN With and Without Dropout	##
 ![alt text](results/CNNaccuracy_graph_dropoutvsnodropout.png "This is the screen you will see on opening")
-##	Results of Running a Few Simulations With Different Parameters	##
+##	Decay of Loss Function Over Epochs	##
 ![alt text](results/CNNloss_graph.png "Example of screen after running Gibbs Sampler on a file with desired parameters")
 
 
